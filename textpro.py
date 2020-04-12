@@ -15,5 +15,5 @@ while True:
     else:
         results.append(sentence_maker(user_input))
 
-print(results)
+print(" ".join(results))
 
